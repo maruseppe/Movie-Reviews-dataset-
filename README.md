@@ -1,3 +1,2 @@
 # Movie-Reviews-dataset-
-It is a dataset of movie reviews from the IMDb (Internet Movie Database) website collected by Stanford researcher Andrew Maas.
-Code Source: IMLP Andreas Muller et Sarah Guido
+Bag of words representation (transformer) versus Stemming and Lemmatization representation followed by logistic regression models versus Decomposition methods such as Latente Dirichlet Allocation on Movie Reviews Dataset. (IMLP Andreas Muller et Sarah Guido)
